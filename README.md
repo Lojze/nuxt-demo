@@ -29,3 +29,5 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 *   [ssr](https://ssr.vuejs.org/zh/#%E4%BB%80%E4%B9%88%E6%98%AF%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E6%B8%B2%E6%9F%93-ssr-%EF%BC%9F)
 *   [axios.nuxtjs.org](https://axios.nuxtjs.org/setup)
 *   [nuxtjs官网](https://zh.nuxtjs.org/)
+
+>   git config user.name 你的目标用户名
